@@ -1,0 +1,15 @@
+Names: Kevin de Haan, Duncan Follis
+Section: EA1
+Copied code: Custom Ualberta tft/adafruit libraries
+
+Wiring instructions:
+  Identical to the wiring required for part one of the Menu project (tft screen and joystick).
+
+Running instructions:
+  Unzip, navigate to file location and type 'make upload'.
+
+Assumptions:
+  Refereced libraries are present on the user's computer, user has a working Arduino Mega 2560.
+
+Other Information:
+  We have included previous .cpp files to document our progress. Additionally, a word file is included that goes into more detail about how each algorithm works and what it does.
